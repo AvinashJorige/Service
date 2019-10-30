@@ -1,0 +1,27 @@
+2019-10-18 09:12:49,244 DEBUG ScheduleService.Program 
+test debug entry
+
+2019-10-18 09:12:49,847 INFO  ScheduleService.Program 
+test info entry
+
+2019-10-18 09:12:50,232 ERROR ScheduleService.Program 
+System.ApplicationException: test error
+
+2019-10-18 09:14:23,464 DEBUG ScheduleService.Program 
+test debug entry
+
+2019-10-18 09:14:23,496 INFO  ScheduleService.Program 
+test info entry
+
+2019-10-18 09:14:23,506 ERROR ScheduleService.Program 
+System.ApplicationException: test error
+
+2019-10-18 09:14:31,295 DEBUG ScheduleService.Program 
+test debug entry
+
+2019-10-18 09:14:31,328 INFO  ScheduleService.Program 
+test info entry
+
+2019-10-18 09:14:31,340 ERROR ScheduleService.Program 
+System.ApplicationException: test error
+
